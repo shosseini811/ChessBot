@@ -134,12 +134,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- OpenAI for GPT-4 Vision API
-- Selenium WebDriver team
-- Chess.com for the platform
-
 ## Author
 
 Soheil Hosseini (@shosseini811)
