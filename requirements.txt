@@ -1,0 +1,11 @@
+pyautogui==0.9.54
+pillow==10.2.0
+requests==2.31.0
+python-dotenv==1.0.0
+openai
+screeninfo
+opencv-python==4.9.0.80
+numpy==1.26.3
+selenium 
+webdriver-manager
+
