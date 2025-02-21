@@ -11,6 +11,12 @@ An intelligent chess assistant that plays chess on chess.com using computer visi
 - 🔄 **Real-time Adaptation**: Dynamically tracks piece positions and availability
 - 🎮 **Browser Automation**: Seamless interaction with chess.com interface
 
+## Demo
+
+Watch the ChessBot in action:
+
+<video src="https://github.com/user-attachments/assets/5679ed1f-a59d-4141-968b-bd167cdbf664" controls></video>
+
 ## Prerequisites
 
 - Python 3.11 or higher
